@@ -1,1 +1,2 @@
-# git_intstuction
+# Инструкция по роботе GIT
+
